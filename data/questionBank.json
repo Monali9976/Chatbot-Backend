@@ -1,0 +1,214 @@
+[
+  {
+    "question": "What services does your company provide?",
+    "answer": "Our solutions serve diverse sectors including pharmaceuticals, automotive, agriculture, electronics, and consumer goods. Each industry receives specialized attention with tailored quality control processes and industry-specific compliance measures."
+  },
+  {
+    "question": "How do you ensure product consistency across batches?",
+    "answer": "We employ advanced automation systems and strict quality control protocols. Every batch undergoes multiple testing phases, and we maintain detailed documentation of all production parameters to ensure consistency."
+  },
+  {
+    "question": "What environmental practices do you follow?",
+    "answer": "Our facilities operate under a zero-waste initiative, utilizing closed-loop systems and energy-efficient processes. We invest in green technologies and maintain strict compliance with environmental regulations while continuously improving our sustainability practices."
+  },
+  {
+    "question": "Do you offer technical support after delivery?",
+    "answer": "Yes, we provide comprehensive post-delivery support including technical consultation, troubleshooting assistance, and optimization recommendations. Our technical team is available for ongoing support to ensure optimal product performance."
+  },
+  {
+    "question": "What information do you need to start a new project?",
+    "answer": "To begin, we need your product specifications, desired quantity, intended application, any specific quality requirements, and target timeline. Our team will review these details and provide a detailed proposal within 48 hours."
+  },
+  {
+    "question": "What is the estimated delivery time?",
+    "answer": "Delivery times depend on distance, type of goods, and service type (standard/express). We will provide an estimated delivery time during booking."
+  },
+  {
+    "question": "How are your transportation charges calculated?",
+    "answer": "Charges are based on factors like weight, volume, distance, type of cargo, and service urgency."
+  },
+  {
+    "question": "Do you offer credit or monthly billing options?",
+    "answer": "Yes, we offer credit terms and monthly billing for our regular business clients."
+  },
+  {
+    "question": "What modes of payment do you accept?",
+    "answer": "We accept bank transfers, UPI, NEFT/RTGS, cheques, and cash (if permitted under company policy)."
+  },
+  {
+    "question": "Is my cargo insured?",
+    "answer": "Yes, we provide basic cargo insurance. Additional insurance can be arranged based on the value and type of goods."
+  },
+  {
+    "question": "What if my goods are lost or damaged during transit?",
+    "answer": "In the rare case of loss or damage, we initiate a claim process as per the agreed terms and insurance coverage."
+  },
+  {
+    "question": "What documents are needed to ship goods?",
+    "answer": "Typically, you\u2019ll need an invoice, packing list, e-way bill, and any special permits (for restricted items). We can assist you with documentation if needed."
+  },
+  {
+    "question": "Are there any restricted or prohibited items?",
+    "answer": "Yes, certain items like flammable liquids, firearms, or illegal substances are prohibited. Contact us for a detailed list."
+  },
+  {
+    "question": "Do you offer customized logistics solutions?",
+    "answer": "Absolutely! We offer tailored services based on your business requirements including dedicated fleets, route planning, and warehouse management."
+  },
+  {
+    "question": "What types of goods do you transport?",
+    "answer": "We transport general cargo, loose cargo, 20’/40’ import/export containers and more—depending on client needs."
+  },
+  {
+    "question": "Which areas do you cover?",
+    "answer": "Our services cover pan-India. We also offer international logistics through sea and air freight."
+  },
+  {
+    "question": "How can I book a shipment?",
+    "answer": "You can book a shipment by contacting us via phone, email, or using our online booking portal."
+  },
+  {
+    "question": "How do I track my shipment?",
+    "answer": "We provide real-time tracking through our GPS integration portal."
+  },
+  {
+    "question": "Who do I contact in case of an emergency or delay?",
+    "answer": "You can reach our 24/7 customer support team at 9599383874."
+  },
+  {
+    "question": "What services does ALPL provide?",
+    "answer": "ALPL provides Logistics and Transportation Services, including Multi-Axle Vehicles, Shipping Containers, and Custom Clearance."
+  },
+  {
+    "question": "When was ALPL established?",
+    "answer": "Ashutosh Logistics Private Limited was established in 2005."
+  },
+  {
+    "question": "Where is ALPL's head office?",
+    "answer": "A-1902, Green Field Colony, Faridabad, Haryana-121009."
+  },
+  {
+    "question": "Who is the director of ALPL?",
+    "answer": "Mr. Manoj Kumar Sharma is the Director of ALPL."
+  },
+  {
+    "question": "What are the benefits of choosing ALPL?",
+    "answer": "Efficient and reliable services, no hidden charges, customer-friendly pricing, and a competent team."
+  },
+  {
+    "question": "What industries does ALPL serve?",
+    "answer": "ALPL serves clients such as ADANI Logistics, DP World, Amar Ujala Publications, Ruchira Paper, and Vardhman Textiles."
+  },
+  {
+  "question": "What does ALPL stand for?",
+  "answer": "ALPL stands for Ashutosh Logistics Private Limited."
+},
+{
+  "question": "How long has ALPL been in the logistics industry?",
+  "answer": "ALPL has been operating since 2005, with nearly two decades of experience in logistics and transportation."
+},
+{
+  "question": "Is ALPL ISO certified?",
+  "answer": "Yes, ALPL is an ISO 9001:2015 certified company."
+},
+{
+  "question": "Do you offer last-mile delivery?",
+  "answer": "Yes, ALPL provides last-mile delivery services ensuring shipments reach their final destination efficiently."
+},
+{
+  "question": "What transportation modes does ALPL support?",
+  "answer": "ALPL offers transport via road, rail, air, and sea depending on your logistics requirements."
+},
+{
+  "question": "Can ALPL handle custom clearance?",
+  "answer": "Yes, ALPL provides customs clearance services to ensure smooth import/export operations."
+},
+{
+  "question": "Can I track my shipment online?",
+  "answer": "Yes, ALPL provides GPS-enabled real-time shipment tracking through their portal."
+},
+{
+  "question": "How do I schedule a pickup?",
+  "answer": "You can schedule a pickup by contacting our team via email, phone, or using the online booking system."
+},
+{
+  "question": "Do you offer 24/7 support?",
+  "answer": "Yes, ALPL has a dedicated 24/7 customer support team to assist clients anytime."
+},
+{
+  "question": "How safe is ALPL’s transportation?",
+  "answer": "We follow strict safety protocols and offer cargo insurance to ensure the safety of your goods."
+},
+{
+  "question": "Do you offer warehousing services?",
+  "answer": "Yes, ALPL has warehousing and storage solutions tailored to different types of cargo."
+},
+{
+  "question": "Where are your warehouses located?",
+  "answer": "ALPL’s warehouses are located across multiple states in India to support regional logistics."
+},
+{
+  "question": "Do you handle pharmaceutical logistics?",
+  "answer": "Yes, we offer specialized logistics solutions for pharmaceuticals, including temperature-controlled transport."
+},
+{
+  "question": "Do you serve the textile industry?",
+  "answer": "Yes, we work with clients like Vardhman Textiles and ensure efficient cargo handling for textiles."
+},
+{
+  "question": "What is your TAT or turnaround time?",
+  "answer": "Our turnaround time depends on distance and service type. For standard deliveries, it’s 2–5 days. Express services are faster and handled on priority."
+},
+{
+  "question": "How soon can I get a logistics quote?",
+  "answer": "You can get a quote within 1–2 hours of submitting shipment details like cargo type, weight, and pickup/delivery location."
+},
+{
+  "question": "Can you handle large or bulk shipments?",
+  "answer": "Yes, ALPL specializes in handling bulk shipments, including 20’ and 40’ containers and multi-axle freight loads."
+},
+{
+  "question": "Do you offer cold chain logistics?",
+  "answer": "Yes, we offer temperature-controlled logistics for perishable goods, pharmaceuticals, and chemicals requiring cold storage."
+},
+{
+  "question": "Do you support eCommerce logistics?",
+  "answer": "Yes, ALPL supports B2B and B2C eCommerce fulfillment, warehousing, and last-mile delivery."
+},
+{
+  "question": "Can I book reverse logistics services?",
+  "answer": "Yes, we provide reverse logistics for return shipments, faulty goods, or product recalls."
+},
+{
+  "question": "Do you help with e-way bills?",
+  "answer": "Yes, our team can assist you in generating e-way bills and other transport documentation required for compliance."
+},
+{
+  "question": "Are your drivers trained and verified?",
+  "answer": "Yes, all ALPL drivers are verified, trained in safety protocols, and certified for commercial freight movement."
+},
+{
+  "question": "Do you provide GST-compliant invoices?",
+  "answer": "Yes, all our invoices are GST-compliant and support digital processing for easy reconciliation."
+},
+{
+  "question": "Can I view billing history?",
+  "answer": "Yes, regular clients get a dedicated login to view past invoices and transaction history."
+},
+{
+  "question": "Is ALPL a registered company?",
+  "answer": "Yes, Ashutosh Logistics Pvt. Ltd. is a government-registered private limited company with GST and other valid licenses."
+},
+{
+  "question": "Can I get a dedicated account manager?",
+  "answer": "Yes, we assign dedicated relationship managers for enterprise clients for seamless communication and support."
+},
+{
+  "question": "Do you offer logistics consultation?",
+  "answer": "Yes, we offer free logistics consultations to help you plan efficient and cost-effective supply chain solutions."
+},
+{
+  "question": "What if I need urgent help?",
+  "answer": "You can reach our 24/7 emergency support team on +91-9599383874 or email us at support@alpllogistics.in."
+}
+]
