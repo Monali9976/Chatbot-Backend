@@ -11,21 +11,21 @@ async function setupRAG() {
 
 async function askFromPDF(query) {
   await setupRAG();
-const lowerQuery = query.toLowerCase().replace(/[?.]/g, "").trim();
+  // Normalize: lowercase, remove punctuation
+  const cleanedQuery = query
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/gi, "") // remove special characters
+    .trim();
 
-  // ✅ Manual override for ALPL
-  const alplPatterns = [
-    "what does alpl stand for",
-    "full form of alpl",
-    "what is alpl",
-    "alpl means",
-    "alpl stands for",
-    "meaning of alpl"
-  ];
+  // Dynamic keyword-based check for ALPL full form intent
+  const hasALPL = cleanedQuery.includes("alpl");
+  const hasIntent = ["full form", "meaning", "stands for", "definition", "expansion"]
+    .some((phrase) => cleanedQuery.includes(phrase));
 
-  if (alplPatterns.some((pattern) => lowerQuery.includes(pattern))) {
+  if (hasALPL && hasIntent) {
     return "ALPL stands for Ashutosh Logistics Private Limited.";
   }
+
   const prompt = `
 You are a helpful assistant for a logistics company. Answer user questions using the following content.
 - Be concise and clear.
