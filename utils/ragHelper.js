@@ -9,41 +9,6 @@ async function setupRAG() {
   }
 }
 
-// async function askFromPDF(query) {
-//   await setupRAG();
-
-//   const prompt = `
-// You are a transport domain assistant. Based on the following PDF content, answer the question:
-// ====================
-// ${rawText.slice(0, 15000)}  // Sarvam accepts max ~16k tokens
-// ====================
-// Question: ${query}
-// `;
-
-//   try {
-//     const response = await axios.post(
-//       "https://api.sarvam.ai/v1/chat/completions",
-//       {
-//         model: "sarvam-m",
-//         messages: [
-//           { role: "system", content: "You answer only transport-related queries using the provided PDF content." },
-//           { role: "user", content: prompt }
-//         ]
-//       },
-//       {
-//         headers: {
-//           Authorization: `Bearer ${process.env.SARVAM_API_KEY}`,
-//           "Content-Type": "application/json"
-//         }
-//       }
-//     );
-
-//     return response.data.choices[0].message.content;
-//   } catch (err) {
-//     console.error("❌ Sarvam API error:", err.message);
-//     return "Sorry, I couldn't process that using the document.";
-//   }
-// }
 async function askFromPDF(query) {
   await setupRAG();
 
